@@ -136,6 +136,9 @@ Note: To change the file type being exported, just go to scripts/handleConverter
 
 The following is a list of URLs/sites used in the project.
 
+* https://medium.com/netscape/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff
+* https://medium.com/jspoint/a-simple-guide-to-load-c-c-code-into-node-js-javascript-applications-3fcccf54fd32
+* https://blog.esciencecenter.nl/using-c-in-a-web-app-with-webassembly-efd78c08469: for main web compilation statement
 * https://web.dev/read-files/  for the general process of reading local files in JavaScript.
 * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file for getting file input.
 * https://developer.mozilla.org/en-US/docs/Web/API/FileReader for more info on FileReader
